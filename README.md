@@ -12,6 +12,8 @@ El caso de estudio utiliza el sistema clásico de **Lotka–Volterra** para repr
 **Asignatura:** Modelado Matemático  
 **Programa:** Maestría en Ciencias de la Ingeniería
 
+**Alumno:** Emmanuel Alejandro Flores Gonzalez. M26210085. m26210085@tectijuana.edu.mx
+
 ---
 
 <a id="contenido"></a>
