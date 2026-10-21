@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica1GD)
 
-# Práctica 1 — Modelado matemático del sistema presa–depredador de Lotka–Volterra
+# Práctica 2 — Caos en sistemas Biologicos
 
 Repositorio académico de la asignatura **Modelado Matemático**, correspondiente a la **Maestría en Ciencias de la Ingeniería** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. La práctica integra modelado mecanicista, análisis cualitativo de sistemas dinámicos no lineales, estimación de parámetros, simulación numérica y experimentación *in silico* en MATLAB y Simulink.
 
