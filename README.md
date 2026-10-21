@@ -15,6 +15,7 @@ Comparar métodos de diferencias finitas para solucionar sistemas de ODEs no lin
 
 **Alumno:** Emmanuel Alejandro Flores Gonzalez. M26210085. m26210085@tectijuana.edu.mx
 ---
+---
 
 ## Uso académico
 
