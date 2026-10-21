@@ -4,7 +4,6 @@
 
 Repositorio académico de la asignatura **Modelado Matemático**, correspondiente a la **Maestría en Ciencias de la Ingeniería** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. La práctica integra modelado mecanicista, análisis cualitativo de sistemas dinámicos no lineales, estimación de parámetros, simulación numérica y experimentación *in silico* en MATLAB y Simulink.
 
-El caso de estudio utiliza el sistema clásico de **Lotka–Volterra** para representar la interacción entre una población de liebres (*snowshoe hares*) y una población de linces (*lynx*) a partir de registros históricos comprendidos entre 1900 y 1920.
 
 **Docente:** Dr. Paul Antonio Valle Trujillo  
 **Departamento:** Ingeniería Eléctrica y Electrónica  
