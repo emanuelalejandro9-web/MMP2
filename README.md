@@ -4,6 +4,8 @@
 
 Repositorio académico de la asignatura **Modelado Matemático**, correspondiente a la **Maestría en Ciencias de la Ingeniería** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. La práctica integra modelado mecanicista, análisis cualitativo de sistemas dinámicos no lineales, estimación de parámetros, simulación numérica y experimentación *in silico* en MATLAB y Simulink.
 
+Comparar métodos de diferencias finitas para solucionar sistemas de ODEs no lineales de primer orden que exhiben diferentes conjuntos compactos invariantes para diferentes valores en sus parámetros y/o condiciones iniciales. El modelo matemático está compuesto por las siguientes tres EDOs de primer orden:
+
 
 **Docente:** Dr. Paul Antonio Valle Trujillo  
 **Departamento:** Ingeniería Eléctrica y Electrónica  
